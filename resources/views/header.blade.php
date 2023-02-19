@@ -63,7 +63,7 @@
                         Dropdown
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="drofdsfdsfdfspdown-item" href="#">Action</a></li>
+                        <li><a class="drofcxcdsfdsfdfspdown-item" href="#">Action</a></li>
                         <li><a class=fdsdspdown-item" href="#">Something else here</a></li>
                     </ul>
                 </li>
@@ -72,8 +72,7 @@
                     </ul>
                 </li>sczxcxz
                 <li class="navcxz-item">czfdsdcxz    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a czxcclass="zfsdcxzdropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a czxcclass="zfsdcxsdfszdrofdsfdpdown-sc"#">Another action</a></li>
                         <li><hr classfdsfdsfds="zcn-idsfdsfdstem" href="#">Something else here</a></li>
                     </ul>xzcxzxzcxzc
                 </li>
