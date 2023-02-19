@@ -64,24 +64,21 @@
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><a class="dradsaddopdown-item" href="#">Another action</a></li>
                         <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropsadsaddown-item" href="#">Something else here</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                        <li><a class="dropdsadsadsadown-item" href="#">Action</a></li>
+                        <li><a class="dropdodsawn-item" href="#">Another action</a></li>
+                        <li><hr class="dropdsađawn-item" href="#">Something else here</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#">Action</a></li>
-                        <li><a class="dropdown-item" href="#">Another action</a></li>
-                        <li><hr class="dropdown-divider"></li>
-                        <li><a class="dropdown-item" href="#">Something else here</a></li>
-                    </ul>
+                        <li><a class="dsadsadsa-item" href="#">Action</a></li>
+                        <li><a class="dsawn-item" href="#">Something else here</a></li>
+                    </ul>dsad
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
